@@ -1,6 +1,6 @@
 ### Hey there, I'm China :grimacing: (she/her)
 
-# 22 | self-taught | freelance developer from the U.S.
+#### 22 | self-taught | freelance developer from the U.S.
 
 I'm currently working on a Portfolio.
 
