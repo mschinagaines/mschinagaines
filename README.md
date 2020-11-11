@@ -17,6 +17,14 @@ Git / Github
 
 Sass
 
+Tools: Undraw (for open-source svg graphics), flaticon (for open-source icons), google fonts (for fonts), gsap (for animating w/ javascript), 
+
+## How Did I Learn?
+
+MDN Documentation
+Stack Overflow
+
+
 <!-- 
 HTML
 CSS/SASS
