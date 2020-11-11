@@ -7,6 +7,16 @@
 
 ## Languages and Tools 
 
+HTML5
+
+CSS3
+
+Javascript
+
+Git / Github
+
+Sass
+
 <!-- 
 HTML
 CSS/SASS
