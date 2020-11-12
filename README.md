@@ -1,6 +1,6 @@
-### Hey there, I'm China :grimacing: (she/her)
+# Hey there, I'm China :grimacing: (she/her)
 
-#### 22 | self-taught | freelance developer from the U.S.
+22 | self-taught | freelance developer from the U.S.
 
 
 <!-- Languages and Tools > -->
@@ -11,7 +11,7 @@ HTML5
 
 CSS3
 
-Javascript
+![Javascript Logo](/img/javascript.png)
 
 Git / Github
 
