@@ -11,7 +11,7 @@ HTML5
 
 CSS3
 
-![Javascript Logo](/img/javascript.png)
+Javascript
 
 Git / Github
 
@@ -23,6 +23,7 @@ Tools: Undraw (for open-source svg graphics), flaticon (for open-source icons), 
 
 MDN Documentation
 Stack Overflow
+Youtube
 
 
 <!-- 
