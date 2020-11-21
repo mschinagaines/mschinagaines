@@ -1,6 +1,18 @@
-# Hey there, I'm China :grimacing: (she/her)
+<div align=center>
 
-22 | self-taught | freelance developer from the U.S.
+<h1>Hi, I'm <a href="www.chinagaines.com">China</a>:grimacing:</h1>
+
+</div>
+
+ (she/her)
+
+ <p align='center'>
+   <a href="https://www.linkedin.com/in/chinagaines/"><img height="30" src="linkedin.png"></a>&nbsp;&nbsp;
+   <a href="https://www.">
+    <a href="https://www.coffee.com/hemant"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/coffee.jpg?raw=true"></a>&nbsp;&nbsp;
+ </p>
+
+22 | self-taught | frontend developer from the U.S.
 
 
 <!-- Languages and Tools > -->
