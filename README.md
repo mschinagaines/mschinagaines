@@ -1,6 +1,6 @@
 <div align=center>
 
-<h1>Hi, I'm <a href="www.chinagaines.com">China</a>:nerd_face:</h1>
+<h1>Hi, I'm <a href="www.mschinagaines.github.io">China</a>:nerd_face:</h1>
 
 </div>
 
@@ -14,7 +14,7 @@
     <!--Stack Overflow Icon-- accredited to Freepik on flaticon.com-->
     <a href="https://stackoverflow.com/cv/chinagaines"><img height="30" src="/pics/stackoverflow.png"></a>&nbsp;&nbsp;
     <!-- Youtube Icon-- accredited to Freepik on flaticon.com-->
-    <a href="youtube.com"><img height="30" src="/pics/youtube.png"></a>&nbsp;&nbsp;
+    <a href="www.youtube.com"><img height="30" src="/pics/youtube.png"></a>&nbsp;&nbsp;
  </p>
 
 <!-- Languages and Tools > -->
