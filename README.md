@@ -1,6 +1,6 @@
-a<div align=center>
+<div align=center>
 
-<h1>Hi, I'm <a href="www.chinagaines.com">China</a><img src="/pics/sherher.svg" alt="pronouns"></h1>
+<h1>Hi, I'm <a href="www.chinagaines.com">China</a></h1> <img src="/pics/sheher.svg" alt="pronouns">
 
 <h3 align=center>China Gaines | Front-end Developer | Charlotte, NC, U.S.A</h3>
 
