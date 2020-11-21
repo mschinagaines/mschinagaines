@@ -1,15 +1,13 @@
-<div align=center>
+a<div align=center>
 
-<h1>Hi, I'm <a href="www.chinagaines.com">China</a>:grimacing:</h1>
+<h1>Hi, I'm <a href="www.chinagaines.com">China</a></h1>
 
 </div>
-
- (she/her)
-
  <p align='center'>
-   <a href="https://www.linkedin.com/in/chinagaines/"><img height="30" src="linkedin.png"></a>&nbsp;&nbsp;
-   <a href="https://www.">
-    <a href="https://www.coffee.com/hemant"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/coffee.jpg?raw=true"></a>&nbsp;&nbsp;
+    <!-- Linked-in Icon-- accedited to Freepik on flaticon.com-->
+    <a href="https://www.linkedin.com/in/chinagaines/"><img height="30" src="linkedin.png"></a>&nbsp;&nbsp;
+    <!--Stack Overflow Icon-- accredited to Freepik onn flaticon.com-->
+    <a href="https://stackoverflow.com/cv/chinagaines"><img height="30" src="stackoverflow.png"></a>&nbsp;&nbsp;
  </p>
 
 22 | self-taught | frontend developer from the U.S.
