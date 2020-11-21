@@ -17,7 +17,7 @@
 <p align="center">
   <!-- Icons accedited to https://github.com/MikeCodesDotNET/ColoredBadges . Please follow Mike! -->
   <img src="/pics/html.svg" alt="html" style="vertical-align:top; margin:4px">    
-  <img src="/pics/css.svg" alt="css" style="vertical-align:top; margin:4px">
+  <img src="/pics/css3.svg" alt="css" style="vertical-align:top; margin:4px">
   <img src="/pics/js.svg" alt="javascript" style="vertical-align:top; margin:4px">
   <img src="/pics/sass.svg" alt="sass" style="vertical-align:top; margin:4px">
   <img src="/pics/bash.svg" alt="gitbash" style="vertical-align:top; margin:4px">
