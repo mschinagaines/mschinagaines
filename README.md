@@ -1,6 +1,8 @@
 a<div align=center>
 
-<h1>Hi, I'm <a href="www.chinagaines.com">China</a></h1>
+<h1>Hi, I'm <a href="www.chinagaines.com">China</a><img src="/pics/sherher.svg" alt="pronouns"></h1>
+
+<h3 align=center>China Gaines | Front-end Developer | Charlotte, NC, U.S.A</h3>
 
 </div>
  <p align='center'>
@@ -10,12 +12,15 @@ a<div align=center>
     <a href="https://stackoverflow.com/cv/chinagaines"><img height="30" src="stackoverflow.png"></a>&nbsp;&nbsp;
  </p>
 
-22 | self-taught | frontend developer from the U.S.
-
-
 <!-- Languages and Tools > -->
-
 ## Languages and Tools 
+
+<p align="center">
+  <!-- Icons accedited to https://github.com/MikeCodesDotNET/ColoredBadges . Please follow Mike! -->
+  <img src="#" alt="html" style="vertical-align:top; margin:4px">    
+  <img src="#" alt="csharp" style="vertical-align:top; margin:4px">
+ 
+</p>
 
 HTML5
 
