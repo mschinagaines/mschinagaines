@@ -1,6 +1,8 @@
 <div align=center>
 
-<h1>Hi, I'm <a href="www.chinagaines.com" style="margin-right: 5px">China</a><img src="/pics/sheher.svg" alt="pronouns"></h1></div>
+<h1>Hi, I'm <a href="www.chinagaines.com" style="margin-right: 5px;">China</a></h1></div>
+
+<div align=center><img src="/pics/sheher.svg" alt="pronouns"></div>
 
 <h3 align=center>China Gaines | Front-end Developer | Charlotte, NC, U.S.A</h3>
 
