@@ -32,15 +32,8 @@
  
 </p>
 
+## My Github Stats
 <div align=center>
 
-![China's github stats](https://github-readme-stats.vercel.app/api?username=mschinagaines&show_icons=true&theme=merko)
+![China's github stats](https://github-readme-stats.vercel.app/api?username=mschinagaines&show_icons=true&theme=radical)
 </div>
-
-Tools: Undraw (for open-source svg graphics), flaticon (for open-source icons), google fonts (for fonts), gsap (for animating w/ javascript), 
-
-## How Did I Learn?
-
-MDN Documentation
-Stack Overflow
-Youtube
