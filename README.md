@@ -1,6 +1,6 @@
 <div align=center>
 
-<h1>Hi, I'm <a href="www.chinagaines.com">China</a></h1>
+<h1>Hi, I'm <a href="www.chinagaines.com">China</a>:nerd_face:</h1>
 
 </div>
 
@@ -31,6 +31,11 @@
 
  
 </p>
+
+<div align=center>
+
+![China's github stats](https://github-readme-stats.vercel.app/api?username=mschinagaines&show_icons=true&theme=merko)
+</div>
 
 Tools: Undraw (for open-source svg graphics), flaticon (for open-source icons), google fonts (for fonts), gsap (for animating w/ javascript), 
 
