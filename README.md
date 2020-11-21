@@ -1,6 +1,6 @@
 <div align=center>
 
-<h1>Hi, I'm <a href="www.chinagaines.com">China</a><img src="/pics/sheher.svg" alt="pronouns"></h1></div>
+<h1>Hi, I'm <a href="www.chinagaines.com" style="margin-right: 5px">China</a><img src="/pics/sheher.svg" alt="pronouns"></h1></div>
 
 <h3 align=center>China Gaines | Front-end Developer | Charlotte, NC, U.S.A</h3>
 
@@ -16,20 +16,13 @@
 
 <p align="center">
   <!-- Icons accedited to https://github.com/MikeCodesDotNET/ColoredBadges . Please follow Mike! -->
-  <img src="#" alt="html" style="vertical-align:top; margin:4px">    
-  <img src="#" alt="csharp" style="vertical-align:top; margin:4px">
+  <img src="/pics/html.svg" alt="html" style="vertical-align:top; margin:4px">    
+  <img src="/pics/css.svg" alt="css" style="vertical-align:top; margin:4px">
+  <img src="/pics/js.svg" alt="javascript" style="vertical-align:top; margin:4px">
+  <img src="/pics/sass.svg" alt="sass" style="vertical-align:top; margin:4px">
+  <img src="/pics/bash.svg" alt="gitbash" style="vertical-align:top; margin:4px">
  
 </p>
-
-HTML5
-
-CSS3
-
-Javascript
-
-Git / Github
-
-Sass
 
 Tools: Undraw (for open-source svg graphics), flaticon (for open-source icons), google fonts (for fonts), gsap (for animating w/ javascript), 
 
@@ -38,27 +31,3 @@ Tools: Undraw (for open-source svg graphics), flaticon (for open-source icons), 
 MDN Documentation
 Stack Overflow
 Youtube
-
-
-<!-- 
-HTML
-CSS/SASS
-Javascript
--->
-
-<!--[<img align="left" alt="javascript" width="26px" src="/images/javascript_icon.png" />] -->
-
-<!--
-**mschinagaines/mschinagaines** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
