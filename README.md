@@ -27,6 +27,7 @@
   <img src="/pics/js.svg" alt="javascript" style="vertical-align:top; margin:4px">
   <img src="/pics/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
   <img src="/pics/sass.svg" alt="sass" style="vertical-align:top; margin:4px">
+  <img src="/pics/vscode.svg" alt="vscode" style="vertical-align:top; margin:4px">
   <img src="/pics/bash.svg" alt="gitbash" style="vertical-align:top; margin:4px">
 
  
