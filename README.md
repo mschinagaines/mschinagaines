@@ -11,8 +11,6 @@
  <p align='center'>
     <!-- Linked-in Icon-- accedited to Freepik on flaticon.com-->
     <a href="https://www.linkedin.com/in/chinagaines/"><img height="30" src="/pics/linkedin.png"></a>&nbsp;&nbsp;
-    <!--Stack Overflow Icon-- accredited to Freepik on flaticon.com-->
-    <a href="https://stackoverflow.com/cv/chinagaines"><img height="30" src="/pics/stackoverflow.png"></a>&nbsp;&nbsp;
     <!-- Youtube Icon-- accredited to Freepik on flaticon.com-->
     <a href="www.youtube.com"><img height="30" src="/pics/youtube.png"></a>&nbsp;&nbsp;
  </p>
@@ -36,5 +34,5 @@
 ## My Github Stats
 <div align=center>
 
-![China's github stats](https://github-readme-stats.vercel.app/api?username=mschinagaines&show_icons=true&theme=radical)
+![China's github stats](https://github-readme-stats.vercel.app/api?username=mschinagaines&show_icons=true&theme=tokyonight)
 </div>
