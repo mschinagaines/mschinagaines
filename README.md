@@ -1,6 +1,8 @@
+<link rel="stylesheet" type="text/css" media="all" href="./styles/style.css" />
+
 <div align=center>
 
-<h1>Hi, I'm <a href="https://mschinagaines.github.io" style="color: red;">China</a>:nerd_face:</h1>
+<h1>Hi, I'm <a href="https://mschinagaines.github.io">China</a>:nerd_face:</h1>
 
 </div>
 
