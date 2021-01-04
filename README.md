@@ -11,8 +11,6 @@
  <p align='center'>
     <!-- Linked-in Icon-- accedited to Freepik on flaticon.com-->
     <a href="https://www.linkedin.com/in/chinagaines/"><img height="30" src="/pics/linkedin.png"></a>&nbsp;&nbsp;
-    <!-- Youtube Icon-- accredited to Freepik on flaticon.com-->
-    <a href="www.youtube.com"><img height="30" src="/pics/youtube.png"></a>&nbsp;&nbsp;
     <!-- Dev.to Icon -->
     <a href="https://dev.to/mschinagaines"><img height="30" src="/pics/devto.png"></a>&nbsp;&nbsp;
  </p>
