@@ -8,7 +8,7 @@
 
 <div align=center><img src="/pics/sheher.svg" alt="pronouns"></div>
 
-<h3 align=center>China Gaines | Front-end Developer | Charlotte, NC, U.S.A</h3>
+<h3 align=center>China Gaines | Front Stack Developer | Charlotte, NC, U.S.A</h3>
 
  <p align='center'>
     <!-- Linked-in Icon-- accedited to Freepik on flaticon.com-->
