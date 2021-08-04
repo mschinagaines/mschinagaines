@@ -13,8 +13,10 @@
  <p align='center'>
     <!-- Linked-in Icon-- accedited to Freepik on flaticon.com-->
     <a href="https://www.linkedin.com/in/chinagaines/"><img height="30" src="/pics/linkedin.png"></a>&nbsp;&nbsp;
-    <!-- Dev.to Icon -->
-    <a href="https://dev.to/mschinagaines"><img height="30" src="/pics/devto.png"></a>&nbsp;&nbsp;
+    <!-- Kaggle Icon -->
+    <a href="https://www.kaggle.com/chinagaines"><img height="30" src="/pics/data.png"></a>&nbsp;&nbsp;
+    <!-- Tableau Icon -->
+    <a href="https://https://public.tableau.com/app/profile/china.gaines"><img height="30" src="/pics/research.png"></a>&nbsp;&nbsp;
  </p>
 
 <!-- Languages and Tools > -->
@@ -22,11 +24,10 @@
 
 <p align="center">
   <!-- Icons accedited to https://github.com/MikeCodesDotNET/ColoredBadges . Please follow Mike! -->
-  <img src="/pics/r.svg" alt="r" style="vertical-align:top; margin:4px"> 
-  <img src="/pics/html.svg" alt="html" style="vertical-align:top; margin:4px">    
-  <img src="/pics/css3.svg" alt="css" style="vertical-align:top; margin:4px">
-  <img src="/pics/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
-  <img src="/pics/sass.svg" alt="sass" style="vertical-align:top; margin:4px">
+  <img src="/pics/SQL.svg" alt="sql" style="vertical-align:top; margin:4px"> 
+  <img src="/pics/r.svg" alt="r" style="vertical-align:top; margin:4px">
+  <img src="/pics/office 365.svg" alt="r" style="vertical-align:top; margin:4px"> 
+  <img src="/pics/google cloud platform.svg" alt="r" style="vertical-align:top; margin:4px"> 
   <img src="/pics/vscode.svg" alt="vscode" style="vertical-align:top; margin:4px">
   <img src="/pics/bash.svg" alt="gitbash" style="vertical-align:top; margin:4px">
 
