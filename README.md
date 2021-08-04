@@ -8,7 +8,7 @@
 
 <div align=center><img src="/pics/sheher.svg" alt="pronouns"></div>
 
-<h3 align=center>China Gaines | Full-Stack Developer | Charlotte, NC, U.S.A</h3>
+<h3 align=center>China Gaines | Data Analyst | Charlotte, NC, U.S.A</h3>
 
  <p align='center'>
     <!-- Linked-in Icon-- accedited to Freepik on flaticon.com-->
@@ -22,9 +22,9 @@
 
 <p align="center">
   <!-- Icons accedited to https://github.com/MikeCodesDotNET/ColoredBadges . Please follow Mike! -->
+  <img src="/pics/r.svg" alt="r" style="vertical-align:top; margin:4px"> 
   <img src="/pics/html.svg" alt="html" style="vertical-align:top; margin:4px">    
   <img src="/pics/css3.svg" alt="css" style="vertical-align:top; margin:4px">
-  <img src="/pics/js.svg" alt="javascript" style="vertical-align:top; margin:4px">
   <img src="/pics/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
   <img src="/pics/sass.svg" alt="sass" style="vertical-align:top; margin:4px">
   <img src="/pics/vscode.svg" alt="vscode" style="vertical-align:top; margin:4px">
