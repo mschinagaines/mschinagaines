@@ -10,15 +10,6 @@
 
 <h3 align=center>China Gaines | Data Analyst | Charlotte, NC, U.S.A</h3>
 
- <p align='center'>
-    <!-- Linked-in Icon-- accedited to Freepik on flaticon.com-->
-    <a href="https://www.linkedin.com/in/chinagaines/"><img height="30" src="/pics/linkedin.png"></a>&nbsp;&nbsp;
-    <!-- Kaggle Icon -->
-    <a href="https://www.kaggle.com/chinagaines"><img height="30" src="/pics/data.png"></a>&nbsp;&nbsp;
-    <!-- Tableau Icon -->
-    <a href="https://https://public.tableau.com/app/profile/china.gaines"><img height="30" src="/pics/research.png"></a>&nbsp;&nbsp;
- </p>
-
 <!-- Languages and Tools > -->
 ## Languages and Tools 
 
