@@ -8,7 +8,7 @@
 
 <div align=center><img src="/pics/sheher.svg" alt="pronouns"></div>
 
-<h3 align=center>China Gaines | Software Engineer | Charlotte, NC, U.S.A</h3>
+<h3 align=center>Software Engineer | <a href="https://www.shecodes.io/students/706-china-gaines">SheCodes Graduate</a> | Charlotte, NC, U.S.A</h3>
 
 <!-- Languages and Tools > -->
 ## Languages and Tools 
@@ -20,8 +20,8 @@
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg" alt="Javascript" style="vertical-align:top; margin:4px"> 
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/bootstrap.svg" alt="Bootstrap" style="vertical-align:top; margin:4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/react.svg" alt="React" style="vertical-align:top; margin:4px">
-  <img src="/pics/vscode.svg" alt="vscode" style="vertical-align:top; margin:4px">
-  <img src="/pics/bash.svg" alt="gitbash" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="VSCode" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/bash.svg" alt="Gitbash" style="vertical-align:top; margin:4px">
 
  
 </p>
