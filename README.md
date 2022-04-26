@@ -8,7 +8,7 @@
 
 <div align=center><img src="/pics/sheher.svg" alt="pronouns"></div>
 
-<h3 align=center>Software Engineer | <a href="https://www.shecodes.io/students/706-china-gaines">SheCodes Graduate</a> | Charlotte, NC, U.S.A</h3>
+<h3 align=center>Frontend Developer | <a href="https://www.shecodes.io/students/706-china-gaines">SheCodes Graduate</a> | Charlotte, NC, U.S.A</h3>
 
 <!-- Languages and Tools > -->
 ## Languages and Tools 
